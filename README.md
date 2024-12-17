@@ -1,6 +1,6 @@
 # Vetores e Java 21
 
-Projeto __simples__ criado apenas para estudos sobre __Java 21__, e design pattern Builder. O objetivo deste projeto é entender sobre a linguagem, aprofundar na mesma e também para adiquirir conhecimentos futuros de desenvolvimento de apis e testes testes automatizados com o java.
+Projeto __simples__ de Reserva de quartos em uma pensão, foi criado apenas para estudos sobre __Java 21__, e design pattern Builder. O objetivo deste projeto é entender sobre a linguagem, aprofundar na mesma e também para adiquirir conhecimentos futuros de desenvolvimento de apis e testes testes automatizados com o java.
 
 #### Informações sobre estudos:
 ___Java___
